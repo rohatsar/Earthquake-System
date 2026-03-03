@@ -59,3 +59,6 @@ Core source code and AI model implementation are maintained in a private reposit
 
 For collaboration or technical discussion, feel free to contact me.
 
+📜 License
+
+MIT License
